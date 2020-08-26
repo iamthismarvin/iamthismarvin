@@ -1,13 +1,14 @@
+### Hi there, my name is Marvin Parada!
+
+![Profile Views](https://gpvc.arturio.dev/iamthismarvin)
 ![Marvin](https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/iamthismarvin_readme.png)
 
-![Profile views](https://gpvc.arturio.dev/iamthismarvin)
+I have a B.S. in Business Administration, but decided to follow my passion and switch careers into software / web development\. I started in front-end development, but have been recently introduced to backend development through different company projects. Gained some experience in Project Management with a remote team due to the pandemic.
 
-Hello! I am Marvin Parada. A front-end developer from Mexico.
-
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Typescript, PostgreSQL, Docker, Node.js, Test-driven Development, WebAssembly, Rust.
-- 📫 How to reach me: hello@marvin.dev
-- ⚡ Fun fact: I have a B.S. in Business Administration
+- 🌱 I’m currently learning test-driven development (Mochas & Cypress), backend development (Node.js, Sails.js, and PostgreSQL), DevOps (Docker), preparing for Vue.js 3 with Typescript, and looking into WebAssembly and Rust.
+- 📫 How to reach me:
+  - **Website:** https://marvin.dev
+  - **Email:** hello@marvin.dev
 
 <table>
   <tbody>
@@ -111,6 +112,12 @@ Hello! I am Marvin Parada. A front-end developer from Mexico.
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/docker.svg' alt='docker' height='40'>
         </a>
+        <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/mocha.svg' alt='mocha' height='40'>
+        </a>
+        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/cypress.svg' alt='cypress' height='40'>
+        </a>
         <a href="https://webassembly.org/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/webassembly.svg' alt='webassembly' height='40'>
         </a>
@@ -118,9 +125,6 @@ Hello! I am Marvin Parada. A front-end developer from Mexico.
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/rust.svg' alt='rust' height='40'>
         </a>
       </td>
-    </tr>
-    <tr align="center">
-      <td>Test-driven Development</td>
     </tr>
   </tbody>
 </table>
