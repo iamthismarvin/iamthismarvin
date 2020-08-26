@@ -1,14 +1,18 @@
-### Hi there, my name is Marvin Parada!
+### Hello, my name is Marvin!
 
 ![Profile Views](https://gpvc.arturio.dev/iamthismarvin)
 ![Marvin](https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/iamthismarvin_readme.png)
 
-I have a B.S. in Business Administration, but decided to follow my passion and switch careers into software / web development\. I started in front-end development, but have been recently introduced to backend development through different company projects. Gained some experience in Project Management with a remote team due to the pandemic.
+I have a B.S. in Business Administration, but decided to follow my passion and switch careers into web development.
 
-- 🌱 I’m currently learning test-driven development (Mochas & Cypress), backend development (Node.js, Sails.js, and PostgreSQL), DevOps (Docker), preparing for Vue.js 3 with Typescript, and looking into WebAssembly and Rust.
-- 📫 How to reach me:
-  - **Website:** https://marvin.dev
-  - **Email:** hello@marvin.dev
+I started in front-end, but have been recently introduced to backend development through different company projects, and have some experience as a Project Manager with a remote team due to the pandemic.
+
+🌱 I’m currently learning test-driven development (Mocha & Cypress), backend development (Node.js, Sails.js, and PostgreSQL), DevOps (Docker), preparing for Vue.js 3 with Typescript, and looking into WebAssembly and Rust.
+
+📫 How to reach me:
+
+- **Website:** https://marvin.dev
+- **Email:** hello@marvin.dev
 
 <table>
   <tbody>
