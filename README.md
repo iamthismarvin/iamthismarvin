@@ -16,22 +16,22 @@ Hello! I am Marvin Parada. A front-end developer from Mexico.
     </tr>
     <tr>
       <td align="center">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>
+        <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/html5.svg' alt='html5' height='40'>
+        <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/css3.svg' alt='css3' height='40'>
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vuejs' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/javascript.svg' alt='javascript' height='40'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vuejs' height='40'>
         </a>
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/sass.svg' alt='sass' height='40'>
         </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='tailwindcss' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/tailwindcss.svg' alt='tailwindcss' height='40'>
         </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/git.svg' alt='git' height='40'>
         </a>
         <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/netlify.svg' alt='netlify' height='40'>
         </a>
       </td>
     </tr>
