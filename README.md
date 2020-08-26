@@ -44,13 +44,13 @@ Hello! I am Marvin Parada. A front-end developer from Mexico.
     <tr>
       <td align="center">
         <a href="https://manjaro.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/manjaro.svg' alt='manjaro' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/manjaro.svg' alt='manjaro' height='40'>
         </a>
         <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/raspberrypi.svg' alt='raspberrypi' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/raspberrypi.svg' alt='raspberrypi' height='40'>
         </a>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg' alt='windows' height='40'> 
+        <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/linux.svg' alt='linux' height='40'>
+        <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/windows.svg' alt='windows' height='40'> 
       </td>
     </tr>
   </tbody>
@@ -61,13 +61,13 @@ Hello! I am Marvin Parada. A front-end developer from Mexico.
     <tr>
       <td align="center"">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>
         </a>
         <a href="https://affinity.serif.com/en-gb/designer/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/affinitydesigner.svg' alt='affinitydesigner' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/affinitydesigner.svg' alt='affinitydesigner' height='40'>
         </a>
         <a href="https://affinity.serif.com/en-gb/photo/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/affinityphoto.svg' alt='affinityphoto' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/affinityphoto.svg' alt='affinityphoto' height='40'>
         </a>
       </td>
     </tr>
@@ -79,16 +79,16 @@ Hello! I am Marvin Parada. A front-end developer from Mexico.
     <tr>
       <td align="center"">
         <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/electron.svg' alt='electron' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/electron.svg' alt='electron' height='40'>
         </a>
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='laravel' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/laravel.svg' alt='laravel' height='40'>
         </a>
         <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graphql.svg' alt='graphql' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/graphql.svg' alt='graphql' height='40'>
         </a>
         <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/wordpress.svg' alt='wordpress' height='40'>
         </a>
       </td>
     </tr>
@@ -100,22 +100,22 @@ Hello! I am Marvin Parada. A front-end developer from Mexico.
     <tr>
       <td align="center"">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/typescript.svg' alt='typescript' height='40'>
         </a>
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/postgresql.svg' alt='postgresql' height='40'>
         </a>
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nodejs.svg' alt='nodejs' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/node-dot-js.svg' alt='nodejs' height='40'>
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/docker.svg' alt='docker' height='40'>
         </a>
         <a href="https://webassembly.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webassembly.svg' alt='webassembly' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/webassembly.svg' alt='webassembly' height='40'>
         </a>
         <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rust.svg' alt='rust' height='40'>
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/rust.svg' alt='rust' height='40'>
         </a>
       </td>
     </tr>
