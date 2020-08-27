@@ -16,12 +16,12 @@
 - **Website:** https://marvin.dev
 - **Email:** hello@marvin.dev
 
-## Tech Stack
+## Tech Experience
 
 <table>
   <tbody>
     <tr>
-      <th align="center">Current</th>
+      <th align="center">Current Stack</th>
     </tr>
     <tr>
       <td align="center">
