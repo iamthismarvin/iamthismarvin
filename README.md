@@ -157,8 +157,8 @@
   </tbody>
 </table>
 
-## Stats
+<!-- ## Stats -->
 
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthismarvin&layout=compact&title_color=00C59C&text_color=444444&icon_color=00C59C)
+<!-- ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthismarvin&layout=compact&title_color=00C59C&text_color=444444&icon_color=00C59C) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamthismarvin&show_icons=true&count_private=true&include_all_commits=true&title_color=00C59C&text_color=444444&icon_color=00C59C)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamthismarvin&show_icons=true&count_private=true&include_all_commits=true&title_color=00C59C&text_color=444444&icon_color=00C59C) -->
