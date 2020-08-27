@@ -16,10 +16,12 @@
 - **Website:** https://marvin.dev
 - **Email:** hello@marvin.dev
 
+## Tech Stack
+
 <table>
   <tbody>
     <tr>
-      <th align="center">Tech Stack</th>
+      <th align="center">Proficient</th>
     </tr>
     <tr>
       <td align="center">
@@ -38,25 +40,18 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/git.svg' alt='git' height='40'>
         </a>
-        <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/netlify.svg' alt='netlify' height='40'>
-        </a>
       </td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <th align="center">Environment</th>
+      <th align="center">Operating Systems</th>
     </tr>
     <tr>
       <td align="center">
         <a href="https://manjaro.org/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/manjaro.svg' alt='manjaro' height='40'>
         </a>
-        <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/raspberrypi.svg' alt='raspberrypi' height='40'>
-        </a>
-        <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/linux.svg' alt='linux' height='40'>
         <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/windows.svg' alt='windows' height='40'> 
       </td>
     </tr>
@@ -85,6 +80,9 @@
     </tr>
     <tr>
       <td align="center"">
+        <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/netlify.svg' alt='netlify' height='40'>
+        </a>
         <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/electron.svg' alt='electron' height='40'>
         </a>
@@ -133,23 +131,22 @@
       </td>
     </tr>
   </tbody>
-</table>
-
-<table>
   <tbody>
     <tr>
       <th align="center">Additional Experience</th>
     </tr>
     <tr align="center">
-      <td>Project Management</td>
-    </tr>
-    <tr align="center">
-      <td>Agile Software Development</td>
-    </tr>
-    <tr align="center">
-      <td>BEM: Block Element Modifier Methodology</td>
+      <td>
+        Project Management<br>
+        Agile Software Development<br>
+        BEM: Block Element Modifier Methodology<br>
+      </td>
     </tr>
   </tbody>
 </table>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamthismarvin&show_icons=true&theme=onedark)
+## Stats
+
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthismarvin&layout=compact&title_color=00C59C&text_color=444444&icon_color=00C59C)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamthismarvin&show_icons=true&count_private=true&include_all_commits=true&title_color=00C59C&text_color=444444&icon_color=00C59C)
