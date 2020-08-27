@@ -21,7 +21,7 @@
 <table>
   <tbody>
     <tr>
-      <th align="center">Proficient</th>
+      <th align="center">Current</th>
     </tr>
     <tr>
       <td align="center">
@@ -36,9 +36,6 @@
         </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/tailwindcss.svg' alt='tailwindcss' height='40'>
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/git.svg' alt='git' height='40'>
         </a>
       </td>
     </tr>
@@ -58,12 +55,21 @@
   </tbody>
   <tbody>
     <tr>
-      <th align="center">Software</th>
+      <th align="center">Tools</th>
     </tr>
     <tr>
       <td align="center"">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>
+        </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/git.svg' alt='git' height='40'>
+        </a>
+        <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/eslint.svg' alt='eslint' height='40'>
+        </a>
+        <a href="https://prettier.io/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/prettier.svg' alt='prettier' height='40'>
         </a>
         <a href="https://affinity.serif.com/en-gb/designer/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/affinitydesigner.svg' alt='affinitydesigner' height='40'>
@@ -88,6 +94,12 @@
         </a>
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/laravel.svg' alt='laravel' height='40'>
+        </a>
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/bootstrap.svg' alt='bootstrap' height='40'>
+        </a>
+        <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/vuetify.svg' alt='vuetify' height='40'>
         </a>
         <a href="https://graphql.org/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/graphql.svg' alt='graphql' height='40'>
