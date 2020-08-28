@@ -3,7 +3,7 @@
 
 ## Marvin Parada—@iamthismarvin
 
-🔭 I started in **Front-End**, but have been recently introduced to **Backend Development** through different company projects, and have some experience as a **Project Manager** with a remote team due to the COVID-19 pandemic.
+🔭 I started in **Front-End**, but have been recently introduced to **Backend Development** through different company projects. Additionally, I have gained experience as a **Project Manager** with a remote team due to the COVID-19 pandemic.
 
 🌱 I’m currently learning **Mocha & Cypress** for test-driven development, **Node.js, Sails.js, and PostgreSQL** for backend development, **Docker** for DevOps, and **Typescript** to prepare for Vue.js 3.
 
