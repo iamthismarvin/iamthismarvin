@@ -3,9 +3,9 @@
 
 ## Marvin Parada—@iamthismarvin
 
-🔭 I started in **Front-End**, but have been recently introduced to **Backend Development** through different company projects. Additionally, I have gained experience as a **Project Manager** with a remote team due to the COVID-19 pandemic.
+🔭 I am a **Front-End** developer with **Backend Development** experience gained through different personal and company projects. Additionally, I worked as a **Project Manager** with a remote team due to the COVID-19 pandemic.
 
-🌱 I’m currently learning **Mocha & Cypress** for test-driven development, **Node.js, Sails.js, and PostgreSQL** for backend development, **Docker** for DevOps, and **Typescript** to prepare for Vue.js 3.
+🌱 I’m currently learning **Mocha & Cypress** for test-driven development, **Sails.js, and PostgreSQL** for backend development, and **Docker** for DevOps.
 
 📝 I'm interested in **Web Assembly** and **Rust**.
 
@@ -28,6 +28,9 @@
         <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/html5.svg' alt='html5' height='40'>
         <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/css3.svg' alt='css3' height='40'>
         <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/javascript.svg' alt='javascript' height='40'>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/typescript.svg' alt='typescript' height='40'>
+        </a>
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/vue-dot-js.svg' alt='vuejs' height='40'>
         </a>
@@ -46,7 +49,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://manjaro.org/" target="_blank" rel="noreferrer">
+        <a href="https://manjaro.org/" target="_blank" rel="noreferrer">        
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/manjaro.svg' alt='manjaro' height='40'>
         </a>
         <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/windows.svg' alt='windows' height='40'> 
@@ -95,6 +98,9 @@
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/laravel.svg' alt='laravel' height='40'>
         </a>
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/node-dot-js.svg' alt='nodejs' height='40'>
+        </a>
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/bootstrap.svg' alt='bootstrap' height='40'>
         </a>
@@ -107,6 +113,9 @@
         <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/wordpress.svg' alt='wordpress' height='40'>
         </a>
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/postgresql.svg' alt='postgresql' height='40'>
+        </a>
       </td>
     </tr>
   </tbody>
@@ -116,15 +125,6 @@
     </tr>
     <tr>
       <td align="center"">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/typescript.svg' alt='typescript' height='40'>
-        </a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/postgresql.svg' alt='postgresql' height='40'>
-        </a>
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/node-dot-js.svg' alt='nodejs' height='40'>
-        </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/docker.svg' alt='docker' height='40'>
         </a>
@@ -152,6 +152,8 @@
         Project Management<br>
         Agile Software Development<br>
         BEM: Block Element Modifier Methodology<br>
+        Data Modeling<br>
+        IndexedDB<br>
       </td>
     </tr>
   </tbody>
