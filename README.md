@@ -1,13 +1,12 @@
 ![Profile Views](https://gpvc.arturio.dev/iamthismarvin)
-![Marvin](https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/banner.png)
 
 ## Marvin Parada—@iamthismarvin
 
-🔭 I am a **Front-End** developer with **Backend Development** experience gained through different personal and company projects. Additionally, I worked as a **Project Manager** with a remote team due to the COVID-19 pandemic.
+🔭 I am a **Software Engineer** specialized in **Frontend** development.
 
-🌱 I’m currently learning **Mocha & Cypress** for test-driven development, **Sails.js, and PostgreSQL** for backend development, and **Docker** for DevOps.
+🌱 I’m currently learning **Rust** and **Machine Learning**.
 
-📝 I'm interested in **Web Assembly** and **Rust**.
+📝 I'm interested in **Blockchain**, **AI/Machine Learning**, and **Embedded Software Development**.
 
 ⚡ Fun fact: I have a **B.S. in Business Administration**, but decided to follow my passion and switch careers into web development.
 
@@ -39,6 +38,9 @@
         </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/tailwindcss.svg' alt='tailwindcss' height='40'>
+        </a>
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/node-dot-js.svg' alt='nodejs' height='40'>
         </a>
       </td>
     </tr>
@@ -98,15 +100,6 @@
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/laravel.svg' alt='laravel' height='40'>
         </a>
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/node-dot-js.svg' alt='nodejs' height='40'>
-        </a>
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/bootstrap.svg' alt='bootstrap' height='40'>
-        </a>
-        <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/vuetify.svg' alt='vuetify' height='40'>
-        </a>
         <a href="https://graphql.org/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/graphql.svg' alt='graphql' height='40'>
         </a>
@@ -115,6 +108,9 @@
         </a>
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/postgresql.svg' alt='postgresql' height='40'>
+        </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/docker.svg' alt='docker' height='40'>
         </a>
       </td>
     </tr>
@@ -125,20 +121,11 @@
     </tr>
     <tr>
       <td align="center"">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/docker.svg' alt='docker' height='40'>
-        </a>
-        <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/mocha.svg' alt='mocha' height='40'>
-        </a>
-        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/cypress.svg' alt='cypress' height='40'>
+        <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/rust.svg' alt='rust' height='40'>
         </a>
         <a href="https://webassembly.org/" target="_blank" rel="noreferrer">
           <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/webassembly.svg' alt='webassembly' height='40'>
-        </a>
-        <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-          <img src='https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/icons/rust.svg' alt='rust' height='40'>
         </a>
       </td>
     </tr>
