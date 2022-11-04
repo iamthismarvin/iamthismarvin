@@ -1,12 +1,13 @@
 ![Profile Views](https://gpvc.arturio.dev/iamthismarvin)
+![Marvin](https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/banner.png)
 
 ## Marvin Parada—@iamthismarvin
 
-🔭 I am a **Software Engineer** specialized in **Frontend** development.
+🔭 I am a **Frontend Software Engineer**.
 
 🌱 I’m currently learning **Rust** and **Machine Learning**.
 
-📝 I'm interested in **Blockchain**, **AI/Machine Learning**, and **Embedded Software Development**.
+📝 I'm interested in **Blockchain**, **AI/Machine Learning**, and **Embedded Development**.
 
 ⚡ Fun fact: I have a **B.S. in Business Administration**, but decided to follow my passion and switch careers into web development.
 
@@ -138,9 +139,8 @@
       <td>
         Project Management<br>
         Agile Software Development<br>
-        BEM: Block Element Modifier Methodology<br>
         Data Modeling<br>
-        IndexedDB<br>
+        Unit Testing<br>
       </td>
     </tr>
   </tbody>
