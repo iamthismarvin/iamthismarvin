@@ -1,5 +1,5 @@
 ![Profile Views](https://gpvc.arturio.dev/iamthismarvin)
-![Marvin](https://cdn.jsdelivr.net/gh/iamthismarvin/iamthismarvin@master/images/banner.png)
+![Marvin](https://raw.githubusercontent.com/iamthismarvin/iamthismarvin/master/images/banner.png)
 
 ## Marvin Parada—@iamthismarvin
 
