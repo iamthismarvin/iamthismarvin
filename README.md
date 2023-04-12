@@ -3,7 +3,7 @@
 
 ## Marvin Parada—@iamthismarvin
 
-🔭 I am a **Frontend Software Engineer**.
+🔭 I am a **Software Engineer**.
 
 🌱 I’m currently learning **Rust** and **Machine Learning**.
 
