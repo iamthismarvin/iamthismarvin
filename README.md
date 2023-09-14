@@ -1,4 +1,3 @@
-![Profile Views](https://gpvc.arturio.dev/iamthismarvin)
 ![Marvin](https://raw.githubusercontent.com/iamthismarvin/iamthismarvin/master/images/banner.png)
 
 ## Marvin Parada—@iamthismarvin
